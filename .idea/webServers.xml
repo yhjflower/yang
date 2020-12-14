@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bd6df594-e802-4fa1-a4e2-1038f677f8a0" name="测试机" url="http://106.13.75.246">
+        <fileTransfer host="106.13.75.246" port="12345" rootFolder="/home/work/yhj-torch" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="12345" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
